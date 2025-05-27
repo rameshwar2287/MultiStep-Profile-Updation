@@ -1,0 +1,564 @@
+[
+    {
+      "name": "India",
+      "code": "IN",
+      "states": [
+        {
+          "name": "Rajasthan",
+          "cities": [
+            {"name": "Jaipur"},
+            {"name": "Udaipur"},
+            {"name": "Jodhpur"},
+            {"name": "Kota"},
+            {"name": "Ajmer"}
+          ]
+        },
+        {
+          "name": "Maharashtra",
+          "cities": [
+            {"name": "Mumbai"},
+            {"name": "Pune"},
+            {"name": "Nagpur"},
+            {"name": "Nashik"},
+            {"name": "Aurangabad"}
+          ]
+        },
+        {
+          "name": "Karnataka",
+          "cities": [
+            {"name": "Bangalore"},
+            {"name": "Mysore"},
+            {"name": "Hubli"},
+            {"name": "Mangalore"},
+            {"name": "Belgaum"}
+          ]
+        },
+        {
+          "name": "Tamil Nadu",
+          "cities": [
+            {"name": "Chennai"},
+            {"name": "Coimbatore"},
+            {"name": "Madurai"},
+            {"name": "Salem"},
+            {"name": "Trichy"}
+          ]
+        },
+        {
+          "name": "Gujarat",
+          "cities": [
+            {"name": "Ahmedabad"},
+            {"name": "Surat"},
+            {"name": "Vadodara"},
+            {"name": "Rajkot"},
+            {"name": "Gandhinagar"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "code": "US",
+      "states": [
+        {
+          "name": "California",
+          "cities": [
+            {"name": "Los Angeles"},
+            {"name": "San Francisco"},
+            {"name": "San Diego"},
+            {"name": "Sacramento"},
+            {"name": "Oakland"}
+          ]
+        },
+        {
+          "name": "New York",
+          "cities": [
+            {"name": "New York City"},
+            {"name": "Buffalo"},
+            {"name": "Rochester"},
+            {"name": "Syracuse"},
+            {"name": "Albany"}
+          ]
+        },
+        {
+          "name": "Texas",
+          "cities": [
+            {"name": "Houston"},
+            {"name": "Dallas"},
+            {"name": "Austin"},
+            {"name": "San Antonio"},
+            {"name": "Fort Worth"}
+          ]
+        },
+        {
+          "name": "Florida",
+          "cities": [
+            {"name": "Miami"},
+            {"name": "Orlando"},
+            {"name": "Tampa"},
+            {"name": "Jacksonville"},
+            {"name": "Tallahassee"}
+          ]
+        },
+        {
+          "name": "Illinois",
+          "cities": [
+            {"name": "Chicago"},
+            {"name": "Aurora"},
+            {"name": "Springfield"},
+            {"name": "Peoria"},
+            {"name": "Rockford"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "states": [
+        {
+          "name": "England",
+          "cities": [
+            {"name": "London"},
+            {"name": "Manchester"},
+            {"name": "Birmingham"},
+            {"name": "Liverpool"},
+            {"name": "Leeds"}
+          ]
+        },
+        {
+          "name": "Scotland",
+          "cities": [
+            {"name": "Edinburgh"},
+            {"name": "Glasgow"},
+            {"name": "Aberdeen"},
+            {"name": "Dundee"},
+            {"name": "Stirling"}
+          ]
+        },
+        {
+          "name": "Wales",
+          "cities": [
+            {"name": "Cardiff"},
+            {"name": "Swansea"},
+            {"name": "Newport"},
+            {"name": "Bangor"},
+            {"name": "Wrexham"}
+          ]
+        },
+        {
+          "name": "Northern Ireland",
+          "cities": [
+            {"name": "Belfast"},
+            {"name": "Derry"},
+            {"name": "Lisburn"},
+            {"name": "Newry"},
+            {"name": "Armagh"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "states": [
+        {
+          "name": "Ontario",
+          "cities": [
+            {"name": "Toronto"},
+            {"name": "Ottawa"},
+            {"name": "Hamilton"},
+            {"name": "London"},
+            {"name": "Windsor"}
+          ]
+        },
+        {
+          "name": "Quebec",
+          "cities": [
+            {"name": "Montreal"},
+            {"name": "Quebec City"},
+            {"name": "Laval"},
+            {"name": "Gatineau"},
+            {"name": "Sherbrooke"}
+          ]
+        },
+        {
+          "name": "British Columbia",
+          "cities": [
+            {"name": "Vancouver"},
+            {"name": "Victoria"},
+            {"name": "Surrey"},
+            {"name": "Burnaby"},
+            {"name": "Richmond"}
+          ]
+        },
+        {
+          "name": "Alberta",
+          "cities": [
+            {"name": "Calgary"},
+            {"name": "Edmonton"},
+            {"name": "Red Deer"},
+            {"name": "Lethbridge"},
+            {"name": "Medicine Hat"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "states": [
+        {
+          "name": "New South Wales",
+          "cities": [
+            {"name": "Sydney"},
+            {"name": "Newcastle"},
+            {"name": "Wollongong"},
+            {"name": "Central Coast"},
+            {"name": "Wagga Wagga"}
+          ]
+        },
+        {
+          "name": "Victoria",
+          "cities": [
+            {"name": "Melbourne"},
+            {"name": "Geelong"},
+            {"name": "Ballarat"},
+            {"name": "Bendigo"},
+            {"name": "Shepparton"}
+          ]
+        },
+        {
+          "name": "Queensland",
+          "cities": [
+            {"name": "Brisbane"},
+            {"name": "Gold Coast"},
+            {"name": "Townsville"},
+            {"name": "Cairns"},
+            {"name": "Toowoomba"}
+          ]
+        },
+        {
+          "name": "Western Australia",
+          "cities": [
+            {"name": "Perth"},
+            {"name": "Fremantle"},
+            {"name": "Rockingham"},
+            {"name": "Mandurah"},
+            {"name": "Bunbury"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "states": [
+        {
+          "name": "Bavaria",
+          "cities": [
+            {"name": "Munich"},
+            {"name": "Nuremberg"},
+            {"name": "Augsburg"},
+            {"name": "Regensburg"},
+            {"name": "Würzburg"}
+          ]
+        },
+        {
+          "name": "North Rhine-Westphalia",
+          "cities": [
+            {"name": "Cologne"},
+            {"name": "Düsseldorf"},
+            {"name": "Dortmund"},
+            {"name": "Essen"},
+            {"name": "Duisburg"}
+          ]
+        },
+        {
+          "name": "Baden-Württemberg",
+          "cities": [
+            {"name": "Stuttgart"},
+            {"name": "Mannheim"},
+            {"name": "Karlsruhe"},
+            {"name": "Freiburg"},
+            {"name": "Heidelberg"}
+          ]
+        },
+        {
+          "name": "Berlin",
+          "cities": [
+            {"name": "Berlin"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "states": [
+        {
+          "name": "Île-de-France",
+          "cities": [
+            {"name": "Paris"},
+            {"name": "Boulogne-Billancourt"},
+            {"name": "Saint-Denis"},
+            {"name": "Argenteuil"},
+            {"name": "Montreuil"}
+          ]
+        },
+        {
+          "name": "Provence-Alpes-Côte d'Azur",
+          "cities": [
+            {"name": "Marseille"},
+            {"name": "Nice"},
+            {"name": "Toulon"},
+            {"name": "Aix-en-Provence"},
+            {"name": "Antibes"}
+          ]
+        },
+        {
+          "name": "Auvergne-Rhône-Alpes",
+          "cities": [
+            {"name": "Lyon"},
+            {"name": "Grenoble"},
+            {"name": "Saint-Étienne"},
+            {"name": "Villeurbanne"},
+            {"name": "Clermont-Ferrand"}
+          ]
+        },
+        {
+          "name": "Occitanie",
+          "cities": [
+            {"name": "Toulouse"},
+            {"name": "Montpellier"},
+            {"name": "Nîmes"},
+            {"name": "Perpignan"},
+            {"name": "Béziers"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "states": [
+        {
+          "name": "São Paulo",
+          "cities": [
+            {"name": "São Paulo"},
+            {"name": "Guarulhos"},
+            {"name": "Campinas"},
+            {"name": "São Bernardo do Campo"},
+            {"name": "Santo André"}
+          ]
+        },
+        {
+          "name": "Rio de Janeiro",
+          "cities": [
+            {"name": "Rio de Janeiro"},
+            {"name": "São Gonçalo"},
+            {"name": "Duque de Caxias"},
+            {"name": "Nova Iguaçu"},
+            {"name": "Niterói"}
+          ]
+        },
+        {
+          "name": "Minas Gerais",
+          "cities": [
+            {"name": "Belo Horizonte"},
+            {"name": "Uberlândia"},
+            {"name": "Contagem"},
+            {"name": "Juiz de Fora"},
+            {"name": "Betim"}
+          ]
+        },
+        {
+          "name": "Bahia",
+          "cities": [
+            {"name": "Salvador"},
+            {"name": "Feira de Santana"},
+            {"name": "Vitória da Conquista"},
+            {"name": "Camaçari"},
+            {"name": "Juazeiro"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "states": [
+        {
+          "name": "Tokyo",
+          "cities": [
+            {"name": "Tokyo"},
+            {"name": "Hachioji"},
+            {"name": "Tachikawa"},
+            {"name": "Musashino"},
+            {"name": "Mitaka"}
+          ]
+        },
+        {
+          "name": "Osaka",
+          "cities": [
+            {"name": "Osaka"},
+            {"name": "Sakai"},
+            {"name": "Higashiosaka"},
+            {"name": "Hirakata"},
+            {"name": "Toyonaka"}
+          ]
+        },
+        {
+          "name": "Kanagawa",
+          "cities": [
+            {"name": "Yokohama"},
+            {"name": "Kawasaki"},
+            {"name": "Sagamihara"},
+            {"name": "Fujisawa"},
+            {"name": "Chigasaki"}
+          ]
+        },
+        {
+          "name": "Aichi",
+          "cities": [
+            {"name": "Nagoya"},
+            {"name": "Toyota"},
+            {"name": "Okazaki"},
+            {"name": "Ichinomiya"},
+            {"name": "Kasugai"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "states": [
+        {
+          "name": "Beijing",
+          "cities": [
+            {"name": "Beijing"}
+          ]
+        },
+        {
+          "name": "Shanghai",
+          "cities": [
+            {"name": "Shanghai"}
+          ]
+        },
+        {
+          "name": "Guangdong",
+          "cities": [
+            {"name": "Guangzhou"},
+            {"name": "Shenzhen"},
+            {"name": "Dongguan"},
+            {"name": "Foshan"},
+            {"name": "Zhongshan"}
+          ]
+        },
+        {
+          "name": "Shandong",
+          "cities": [
+            {"name": "Jinan"},
+            {"name": "Qingdao"},
+            {"name": "Zibo"},
+            {"name": "Yantai"},
+            {"name": "Weifang"}
+          ]
+        },
+        {
+          "name": "Jiangsu",
+          "cities": [
+            {"name": "Nanjing"},
+            {"name": "Suzhou"},
+            {"name": "Wuxi"},
+            {"name": "Xuzhou"},
+            {"name": "Changzhou"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "states": [
+        {
+          "name": "Mexico City",
+          "cities": [
+            {"name": "Mexico City"}
+          ]
+        },
+        {
+          "name": "Jalisco",
+          "cities": [
+            {"name": "Guadalajara"},
+            {"name": "Zapopan"},
+            {"name": "Tlaquepaque"},
+            {"name": "Tonalá"},
+            {"name": "Puerto Vallarta"}
+          ]
+        },
+        {
+          "name": "Nuevo León",
+          "cities": [
+            {"name": "Monterrey"},
+            {"name": "Guadalupe"},
+            {"name": "San Nicolás de los Garza"},
+            {"name": "Apodaca"},
+            {"name": "Santa Catarina"}
+          ]
+        },
+        {
+          "name": "Puebla",
+          "cities": [
+            {"name": "Puebla"},
+            {"name": "Tehuacán"},
+            {"name": "San Martín Texmelucan"},
+            {"name": "Atlixco"},
+            {"name": "San Pedro Cholula"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "states": [
+        {
+          "name": "Moscow Oblast",
+          "cities": [
+            {"name": "Moscow"},
+            {"name": "Balashikha"},
+            {"name": "Khimki"},
+            {"name": "Podolsk"},
+            {"name": "Mytishchi"}
+          ]
+        },
+        {
+          "name": "Saint Petersburg",
+          "cities": [
+            {"name": "Saint Petersburg"}
+          ]
+        },
+        {
+          "name": "Sverdlovsk Oblast",
+          "cities": [
+            {"name": "Yekaterinburg"},
+            {"name": "Nizhny Tagil"},
+            {"name": "Kamensk-Uralsky"},
+            {"name": "Pervouralsk"},
+            {"name": "Serov"}
+          ]
+        },
+        {
+          "name": "Tatarstan",
+          "cities": [
+            {"name": "Kazan"},
+            {"name": "Naberezhnye Chelny"},
+            {"name": "Nizhnekamsk"},
+            {"name": "Almetyevsk"},
+            {"name": "Zelenodolsk"}
+          ]
+        }
+      ]
+    }
+  ]
