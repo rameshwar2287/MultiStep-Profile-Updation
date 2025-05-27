@@ -14,8 +14,8 @@
       {
         "src": "/country/(.*)",
         "dest": "/index.js"
-      },{
-
+      },
+      {
         "src": "/(.*)",
         "dest": "/index.js"
       }
