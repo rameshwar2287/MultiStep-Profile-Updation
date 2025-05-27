@@ -31,7 +31,7 @@ function App() {
   const [passwordStrength, setPasswordStrength] = useState(0);
 
   useEffect(() => {
-    fetch("http://localhost:3000/country/countries") // Adjust URL if needed
+    fetch("https://multistep-profile-updation.onrender.com/country/countries") // Adjust URL if needed
       .then((res) => res.json())
       .then((data) => {
         console.log("Fetched country data:", data);
@@ -252,7 +252,7 @@ function App() {
     }
 
     fetch(
-      `http://localhost:3000/api/user/searchuser?username=${encodeURIComponent(
+      `https://multistep-profile-updation.onrender.com/api/user/searchuser?username=${encodeURIComponent(
         username
       )}`
     )

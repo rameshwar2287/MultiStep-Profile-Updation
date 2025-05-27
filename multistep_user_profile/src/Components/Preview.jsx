@@ -26,7 +26,7 @@ const Preview = ({ formData, onClose }) => {
     } = formData;
   
     try {
-      const response = await fetch("http://localhost:3000/api/user/update-data", {
+      const response = await fetch("https://multistep-profile-updation.onrender.com/api/user/update-data", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
